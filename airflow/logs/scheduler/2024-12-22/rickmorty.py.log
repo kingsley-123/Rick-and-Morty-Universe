@@ -467,3 +467,136 @@
 [2024-12-22T09:44:16.996+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:44:16.996+0000] {dag.py:2742} INFO - Sync 1 DAGs
 [2024-12-22T09:44:17.035+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:44:17.034+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
 [2024-12-22T09:44:17.060+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.121 seconds
+[2024-12-22T09:44:47.349+0000] {processor.py:157} INFO - Started process (PID=600) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:44:47.351+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:44:47.352+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:44:47.352+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:44:47.368+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:44:47.413+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:44:47.412+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:44:47.450+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:44:47.449+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:44:47.472+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.136 seconds
+[2024-12-22T09:45:17.537+0000] {processor.py:157} INFO - Started process (PID=608) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:45:17.538+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:45:17.539+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:45:17.539+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:45:17.571+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:45:17.619+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:45:17.619+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:45:17.687+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:45:17.687+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:45:17.713+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.181 seconds
+[2024-12-22T09:45:47.844+0000] {processor.py:157} INFO - Started process (PID=616) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:45:47.845+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:45:47.846+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:45:47.846+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:45:47.862+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:45:47.897+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:45:47.896+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:45:47.932+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:45:47.931+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:45:47.957+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.120 seconds
+[2024-12-22T09:46:18.144+0000] {processor.py:157} INFO - Started process (PID=625) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:46:18.145+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:46:18.146+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:46:18.146+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:46:18.162+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:46:18.201+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:46:18.201+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:46:18.238+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:46:18.238+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:46:18.262+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.124 seconds
+[2024-12-22T09:46:48.339+0000] {processor.py:157} INFO - Started process (PID=632) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:46:48.340+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:46:48.342+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:46:48.341+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:46:48.363+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:46:48.399+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:46:48.398+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:46:48.437+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:46:48.437+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:46:48.460+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.128 seconds
+[2024-12-22T09:47:18.608+0000] {processor.py:157} INFO - Started process (PID=640) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:47:18.609+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:47:18.611+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:47:18.611+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:47:18.631+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:47:18.667+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:47:18.666+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:47:18.702+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:47:18.701+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:47:18.725+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.123 seconds
+[2024-12-22T09:47:48.800+0000] {processor.py:157} INFO - Started process (PID=648) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:47:48.801+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:47:48.803+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:47:48.802+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:47:48.827+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:47:48.861+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:47:48.861+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:47:48.903+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:47:48.903+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:47:48.928+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.137 seconds
+[2024-12-22T09:48:19.069+0000] {processor.py:157} INFO - Started process (PID=656) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:48:19.069+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:48:19.070+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:48:19.070+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:48:19.091+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:48:19.126+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:48:19.126+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:48:19.163+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:48:19.163+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:48:19.194+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.129 seconds
+[2024-12-22T09:48:49.248+0000] {processor.py:157} INFO - Started process (PID=664) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:48:49.250+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:48:49.251+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:48:49.251+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:48:49.268+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:48:49.306+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:48:49.305+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:48:49.348+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:48:49.347+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:48:49.374+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.131 seconds
+[2024-12-22T09:49:19.500+0000] {processor.py:157} INFO - Started process (PID=672) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:49:19.501+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:49:19.502+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:49:19.502+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:49:19.525+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:49:19.570+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:49:19.570+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:49:19.649+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:49:19.649+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:49:19.690+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.195 seconds
+[2024-12-22T09:49:49.844+0000] {processor.py:157} INFO - Started process (PID=679) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:49:49.846+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:49:49.847+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:49:49.847+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:49:49.875+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:49:49.911+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:49:49.911+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:49:49.981+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:49:49.981+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:49:50.015+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.176 seconds
+[2024-12-22T09:50:20.230+0000] {processor.py:157} INFO - Started process (PID=687) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:50:20.231+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:50:20.232+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:50:20.232+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:50:20.251+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:50:20.285+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:50:20.285+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:50:20.323+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:50:20.323+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:50:20.346+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.125 seconds
+[2024-12-22T09:50:50.385+0000] {processor.py:157} INFO - Started process (PID=695) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:50:50.386+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:50:50.387+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:50:50.387+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:50:50.407+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:50:50.448+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:50:50.448+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:50:50.495+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:50:50.494+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:50:50.527+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.149 seconds
+[2024-12-22T09:51:20.679+0000] {processor.py:157} INFO - Started process (PID=703) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:51:20.679+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:51:20.681+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:51:20.680+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:51:20.718+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:51:20.769+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:51:20.769+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:51:20.831+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:51:20.831+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:51:20.865+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.192 seconds
+[2024-12-22T09:51:51.027+0000] {processor.py:157} INFO - Started process (PID=711) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:51:51.029+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:51:51.030+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:51:51.030+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:51:51.046+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:51:51.081+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:51:51.081+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:51:51.161+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:51:51.161+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:51:51.200+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.178 seconds
+[2024-12-22T09:52:21.366+0000] {processor.py:157} INFO - Started process (PID=719) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:52:21.367+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:52:21.368+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:52:21.368+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:52:21.384+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:52:21.422+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:52:21.421+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:52:21.461+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:52:21.461+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:52:21.489+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.128 seconds
+[2024-12-22T09:52:51.519+0000] {processor.py:157} INFO - Started process (PID=727) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:52:51.521+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:52:51.522+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:52:51.522+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:52:51.540+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:52:51.581+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:52:51.581+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:52:51.627+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:52:51.627+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:52:51.665+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.151 seconds
+[2024-12-22T09:53:21.825+0000] {processor.py:157} INFO - Started process (PID=735) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:53:21.825+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:53:21.826+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:53:21.826+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:53:21.844+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:53:21.875+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:53:21.875+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:53:21.913+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:53:21.913+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:53:21.937+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.117 seconds
+[2024-12-22T09:53:52.013+0000] {processor.py:157} INFO - Started process (PID=743) to work on /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:53:52.013+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/rickmorty.py for tasks to queue
+[2024-12-22T09:53:52.014+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:53:52.014+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:53:52.037+0000] {processor.py:836} INFO - DAG(s) dict_keys(['rickmorty']) retrieved from /opt/airflow/dags/rickmorty.py
+[2024-12-22T09:53:52.080+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:53:52.080+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-22T09:53:52.129+0000] {logging_mixin.py:150} INFO - [2024-12-22T09:53:52.128+0000] {dag.py:3508} INFO - Setting next_dagrun for rickmorty to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-22T09:53:52.163+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/rickmorty.py took 0.157 seconds
